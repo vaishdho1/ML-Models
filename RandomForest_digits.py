@@ -7,6 +7,7 @@ import random
 from sklearn.metrics import f1_score
 
 
+
 # Load the digits dataset
 digits = datasets.load_digits()
 
