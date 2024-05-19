@@ -16,8 +16,7 @@ Accuracy and F1-score are the metrics used for evaluating the performance.
   - **Dataset**: The Parkinson's dataset contains biomedical voice measurements from people with and without Parkinson's disease.
   - **Description**: The objective is to distinguish between healthy individuals and those with Parkinson's disease based on voice measurements.
 
-- **decision_tree_mixed.py**: Implementation of a Decision Tree classifier on a mixed dataset from scratch.
-  - **Dataset**: This dataset includes various features from multiple sources (specific details can be filled in if available).
+- **decision_tree_mixed.py**: Implementation of a Decision Tree classifier on various 
   - **Description**: A decision tree model is used to classify instances based on mixed-type features.
 
 - **k_fold_project_loan.py**: Implementation of K-Fold Cross Validation on a loan prediction dataset using models implemented from scratch.
@@ -29,7 +28,7 @@ Accuracy and F1-score are the metrics used for evaluating the performance.
   - **Description**: The goal is to predict survival of passengers using various features like age, sex, and ticket class, validated with K-Fold Cross Validation.
 
 - **knn_project.py**: Implementation of a K-Nearest Neighbors classifier on a sample dataset from scratch.
-  - **Dataset**: A custom or standard dataset (specific details can be filled in if available).
+  - **Dataset**: A custom or standard dataset.
   - **Description**: Using KNN to classify instances based on their proximity to other labeled instances.
 
 - **neural_network.py**: Implementation of a Neural Network for a classification problem from scratch.
